@@ -1,0 +1,3 @@
+(executable
+  (name sinusoid)
+  (libraries gnuplot))

@@ -1,0 +1,5 @@
+"Rule: ocaml: ml & cmi -> cmx & o (%=sinusoid )": "\019h\177\194M\197\206\001\145\246\182\151\000dF\218"
+"Rule: ocaml: cmx* & o* -> native (%=sinusoid )": "\023\030\246\167%\186Q\192\179e\244\1553a\203t"
+"Resource: /home/niquetot/sources/gnuplot/sinusoid.ml": "Bl\149_ULb\006y\235\244\004<z\207\248"
+"Rule: ocaml dependencies ml (%=sinusoid )": "J&\153\167\244\150\209\179u>-\153\224>\2394"
+"Rule: ocaml: ml -> cmo & cmi (%=sinusoid )": ",< \171\026\254Ir\002+\243d\245\0306K"
